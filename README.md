@@ -15,11 +15,9 @@ Table of Contents
 [How to Contribute](#how-to-contribute)  
 [Known Bugs](#known-bugs)  
 [Features in Progress](#features-in-progress)  
-[Credit](#credit)  
-
+[Credit](#credit)
 
 ## Connect And Grant Permission
-[![spotify-github-profile](http://localhost:3000/api/view?uid=31kftouh357illan6barnci4oz3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 - Click `Connect with Spotify` button below to grant permission
 
@@ -46,8 +44,6 @@ Table of Contents
 - Karaoke theme
 
 ![spotify-github-profile](/img/karaoke.svg)
-
-
 
 ## Running for development locally
 
